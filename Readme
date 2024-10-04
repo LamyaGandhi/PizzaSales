@@ -1,0 +1,35 @@
+Pizza Sales Data Analysis Dashboard
+Project Overview
+This project provides an in-depth analysis of pizza sales using Power BI, SQL, and Microsoft Excel. The goal was to generate insightful Key Performance Indicators (KPIs) and visualize trends and patterns to support data-driven decision-making.
+
+Tech Stack Used
+Power BI: For data visualization and dashboard creation.
+SQL: For querying and managing the dataset.
+Microsoft Excel: For data preprocessing and cleaning.
+Features
+Interactive Dashboard: The Power BI dashboard is equipped with dynamic visuals that allow users to filter data by various dimensions, such as time, pizza type, and store location.
+KPIs: Key metrics such as total revenue, average order value, and sales growth rate are prominently displayed for quick insights.
+Trend Analysis: Visualizations reveal patterns over time, such as seasonal trends, top-selling pizzas, and customer preferences.
+Sales Performance by Location: Compare sales across different store locations to identify high-performing regions.
+Insights Delivered
+Identified top-selling pizza categories and individual pizzas.
+Revealed seasonal sales trends, helping to inform inventory management and marketing strategies.
+Pinpointed peak sales periods and high-performing store locations.
+Visualizations
+Bar Charts: Show breakdowns of sales by pizza type and region.
+Line Graphs: Track monthly revenue and sales growth.
+KPIs: Displayed prominently on the dashboard for quick reference.
+How to Run the Project
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/yourusername/pizza-sales-dashboard.git
+Open the Power BI file Pizza_Sales_Dashboard.pbix.
+Use Power BI to explore the interactive dashboard.
+Future Improvements
+Incorporating customer demographics to gain deeper insights.
+Adding predictive analytics to forecast future sales trends.
+Screenshots
+
+License
+This project is licensed under the MIT License.
